@@ -5,7 +5,7 @@ For the selected recipe the user will be provided with details
 such as overview , ingredients used and step by step
 instructions to prepare the recipe and also the user can
 select their favourite recipes 
-#### Languages used are :- Kotlin. ####
+#### Language used is :- Kotlin. ####
 #### Database used :- SQLite. ####
 #### API used :- [Spoonacular API.](https://spoonacular.com/food-api) ####
 #### Architecture pattern followed is MVVM. ####
